@@ -21,3 +21,5 @@ Thank you!
 1- Perseverence
 2- Motivation
 3- Concentration
+4- Self-confident
+5- Be hopeful
