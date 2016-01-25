@@ -23,3 +23,4 @@ Thank you!
 3- Concentration
 4- Self-confident
 5- Be Good
+6- Be careful
