@@ -1,26 +1,44 @@
 # hello-world
 
-## Hi Human
+## hello human
 
-I'm Scott Thacker. I'm Computer Science Researcher at MIT. 
-I want to be a great developer.
+### hello man
 
-Just take a look into my cv. I'm free for the job.
+#### hello
 
-Thank you!
+Liste à puce:
+* 1
+* 2
+* 3
+* 4
 
-# My competences
+Liste numérotée:
+1. 1
+2. 2
+3. 3
+4. 4
 
-+ C
-+ Python
-+ Java
-+ Algorithms
+Je veux écrire du code c en ligne: `printf()`
 
-## My principles
+Code :
+  int main(){
+  int x, y;
+  x = 0;
+  y = 1;
+  int z = x+y;
+  print(" z = %d ", z)
+  return 0;
+  }
+  
+Good night
+==========
+Good night
+----------
 
-1- Perseverence
-2- Motivation
-3- Concentration
-4- Self-confident
-5- Be Good
-6- Be careful
+----------------
+
+Bonjour. Je m'appelle **Scott Thacker**. J'ai *23 ans*.
+
+Ceci est le lien de [Google.com](https://www.google.com)
+
+Ceci est une image : ![Chritiane Taubira](https://goo.gl/jCDBRP)
