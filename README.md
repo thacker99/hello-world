@@ -21,7 +21,7 @@ Liste numérotée:
 Je veux écrire du code c en ligne: `printf()`
 
 Code :
-    int main()
+    ```int main()
     {
       int x, y;
       x = 0;
@@ -29,7 +29,7 @@ Code :
       int z = x+y;
       print(" z = %d ", z)
       return 0;
-    }
+    }```
   
 Good night
 ==========
