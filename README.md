@@ -42,7 +42,7 @@ Bonjour. Je m'appelle **Scott Thacker**. J'ai *23 ans*.
 
 Ceci est le lien de [Google.com](https://www.google.com)
 
-Ceci est une image : ![Chritiane Taubira](https://goo.gl/jCDBRP)
+Ceci est une image : ![Chritiane Taubira](https://www.google.com/search?q=Christiane+Taubira&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjNgvTe_MrKAhVBfhoKHehjCHsQ_AUICSgD&biw=1366&bih=657#imgrc=PR2HZwIe1ptv_M%3A)
 
 Citation:
 > Aider pour aider sans construire reste stérile.
