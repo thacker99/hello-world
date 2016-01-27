@@ -46,4 +46,5 @@ Ceci est une image : ![Chritiane Taubira](https://goo.gl/jCDBRP)
 
 Citation:
 > Aider pour aider sans construire reste stérile.
-> Bill Gates
+> Bill Gates 
+> Fondateur de Microsoft Inc.
