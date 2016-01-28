@@ -21,7 +21,9 @@ Liste numérotée:
 Je veux écrire du code c en ligne: `printf()`
 
 Code :
-    ```int main()
+    
+    
+    int main()
     {
       int x, y;
       x = 0;
@@ -29,7 +31,7 @@ Code :
       int z = x+y;
       print(" z = %d ", z)
       return 0;
-    }```
+    }
   
 Good night
 ==========
@@ -49,7 +51,7 @@ Citation:
 > Bill Gates 
 > Fondateur de Microsoft Inc.
 
-Je suis ici depuis avant hier. 
+Je suis ici depuis avant hier.  
 Je veux rentrer. Merci
 
 Je suis ici depuis avant hier.  
